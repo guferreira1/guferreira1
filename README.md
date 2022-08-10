@@ -3,7 +3,7 @@
 ### Hello, world! 👋
 
 
- I'm a fullstack developer student  :smile:
+ **_I'm a fullstack developer student_**  :smile:
 
 <details>
   <summary> More about me</summary>
