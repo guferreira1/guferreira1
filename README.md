@@ -21,9 +21,10 @@ const gus = {
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['Vanilla JS', 'React (...in learning)'],
+                Javascript: ['Vanilla JS', 'React'],
+                TypeScript,
                 HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['sass']
+                CSS: ['Styled-Components']
             },
             backEnd: ['(...in learning)']
         }
