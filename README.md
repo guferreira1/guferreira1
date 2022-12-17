@@ -24,7 +24,7 @@ const gus = {
                 Javascript: ['Vanilla JS', 'React', 'NextJS'],
                 TypeScript,
                 HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['Styled-Components, 'TailwindCSS']
+                CSS: ['CSS3', 'Styled-Components, 'TailwindCSS']
             },
            backEnd: {
                 Javascript: ['Node JS', 'Express'],
