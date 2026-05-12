@@ -127,11 +127,6 @@ Kubernetes                CI/CD                     Infrastructure as Code
 
 <div align="center">
 
-<strong>Code · Platform · Reliability</strong>
-
-<br />
-<br />
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2563EB,50:1E293B,100:0F172A" />
 
 </div>
