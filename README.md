@@ -14,7 +14,7 @@
 <br />
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Backend+Engineer;Cloud+Native+%26+Platform+Engineering;Distributed+Systems+%7C+Observability+%7C+Automation;Java+%7C+Node.js+%7C+Go+%7C+Kubernetes" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Backend+Engineer;Cloud+Native+%26+Platform+Engineering;Distributed+Systems+%7C+Observability+%7C+Automation;Go+%7C+Java+%7C+Node.js+%7C+Kubernetes" />
 
 </div>
 
@@ -43,7 +43,7 @@ Kubernetes                CI/CD                     Infrastructure as Code
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,ts,go" />
+  <img src="https://skillicons.dev/icons?i=go,java,spring,nodejs,nestjs,ts" />
 </p>
 
 ### Architecture & messaging
@@ -113,13 +113,13 @@ Kubernetes                CI/CD                     Infrastructure as Code
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=guferreira1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guferreira1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guferreira1&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guferreira1&theme=tokyonight" />
 
 <br />
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=guferreira1&theme=tokyonight&hide_border=true" />
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=guferreira1&theme=tokyonight&hide_border=true" />
 
 </div>
 
