@@ -31,7 +31,7 @@ My work usually lives between application architecture and infrastructure: desig
 ## Engineering focus
 
 ```txt
-Backend Architecture      Distributed Systems      Platform Engineering
+Backend Architecture      Distributed Systems       Platform Engineering
 Cloud Native              DevOps Automation         Observability
 Kubernetes                CI/CD                     Infrastructure as Code
 ```
